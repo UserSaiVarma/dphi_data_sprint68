@@ -1,7 +1,7 @@
 # dphi_data_sprint68
 This repo contains the code for the challenge by DPhi on agriculture data. 
 
-> download data from [here](https://dphi-live.s3.eu-west-1.amazonaws.com/dataset/pest_classification.zip)
+> download data from [here](https://dphi-live.s3.eu-west-1.amazonaws.com/dataset/pest_classification.zip) and competition [link](https://dphi.tech/challenges/data-sprint-68-world-data-league-external-competition/200/)
 
 ### About:
    - Data Sprint 68 is a part of World Data League, an international non-profit competition that gathers the best minds in the Data Science field to develop long-lasting solutions for social impact challenges. In this, you will have an opportunity to work on a dataset that aims to solve one of the United Nations Sustainable Development Goals and create a larget social impact.
@@ -26,3 +26,6 @@ This repo contains the code for the challenge by DPhi on agriculture data.
      - aulacaspis_tubercularis
      - ceroplastes_rubens
      - ischnaspis_longirostris
+
+## Contents
+1. exploratory_data_analysis.ipynb : Contains basic eda performed on the train and test data before building models on top of them.
