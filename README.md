@@ -10,19 +10,19 @@ download data from [here](https://dphi-live.s3.eu-west-1.amazonaws.com/dataset/p
 ### Data Overview:
    - The data consists of images captured from the Mango farms affected by 15-categories of pests which are identifiable through structural and visual deformity exhibited in the Mango leaves. The collection of the data involved the use of a low-cost sensing equipment that are commonly used by the farmers for collecting images from the farm. 
    - Below are the different types of pest categories:
-1. mictis_longicornis
-2.  apoderus_javanicus
-3.   valanga_nigricornis
-4.   dappula_tertia
-5.   normal
-6.   neomelicharia_sparsa
-7.   dialeuropora_decempuncta
-8.   icerya_seychellarum
-9.   procontarinia_matteiana
-10.   procontarinia_rubus
-11.   orthaga_euadrusalis
-12.   cisaberoptus_kenyae
-13.   erosomyia_sp
-14.   aulacaspis_tubercularis
-15.   ceroplastes_rubens
-16.   ischnaspis_longirostris
+     - mictis_longicornis
+     - apoderus_javanicus
+     - valanga_nigricornis
+     - dappula_tertia
+     - normal
+     - neomelicharia_sparsa
+     - dialeuropora_decempuncta
+     - icerya_seychellarum
+     - procontarinia_matteiana
+     - procontarinia_rubus
+     - orthaga_euadrusalis
+     - cisaberoptus_kenyae
+     - erosomyia_sp
+     - aulacaspis_tubercularis
+     - ceroplastes_rubens
+     - ischnaspis_longirostris
