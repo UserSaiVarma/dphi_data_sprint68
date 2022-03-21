@@ -1,2 +1,4 @@
 # dphi_data_sprint68
-This repo contains the code for the challenge by DPhi on agriculture data
+This repo contains the code for the challenge by DPhi on agriculture data. 
+
+download data from [here](https://dphi-live.s3.eu-west-1.amazonaws.com/dataset/pest_classification.zip)
